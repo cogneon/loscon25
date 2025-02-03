@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Simon Dückert">
+  <title>lernOS KI MOOC - Organisation von Lerngruppen</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reveal.css">
+  <style>
+    .reveal .sourceCode {  /* see #7635 */
+      overflow: visible;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/theme/night.css" id="theme">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">lernOS KI MOOC</h1>
+  <p class="subtitle"><a href="https://cogneon.github.io/mastowall/?hashtags=kimooc24&server=https://colearn.social" target="_blank">#kimooc24</a></p>
+  <p class="date">06.05. - 21.06.2024</p>
+</section>
+
+<section class="slide level3">
+  <h3>🏳️‍🌈 Don't speak German?</h3>
+  <ol>
+    <li>In the session at 6th of May we have human-powered 🙋‍♀️ live translation (<a href="https://support.microsoft.com/en-au/office/use-language-interpretation-in-microsoft-teams-meetings-b9fdde0f-1896-48ba-8540-efc99f5f4b2e#bkmk_change_language_channel" target="_blank">instruction</a>)</li>
+    <li>In all other sessions we have AI-powered 🤖 subtitles & transcripts</li>
+    <li>You can ask questions in English</li>
+    <li>You can form learning tandems & learning circles in any language</li>
+  </ol>
+  </section>
+
+<section class="slide level3">
+  <h3>👋 Willkommen</h3>
+  <ol type="1">
+    <li>Disclaimer</li>
+    <li>Was ist ein MOOC?</li>
+    <li>Ziele</li>
+    <li>Vorbereitung</li>
+    <li>Ablauf & Lerngruppen</li>
+    <li>Infrastruktur</li>
+  </ol>
+  </section>
+
+<section class="slide level3">
+  <a href="https://lernos.org" target="_blank"><img src="https://github.com/cogneon/lernos/blob/master/de/src/images/lernOS-logo-white-300px.png?raw=true" /></a>
+  <small>
+    <p><strong>Dank an das Leitfaden Team:</strong> Benedikt, Doris, Ellen, Oliver, Hans, Marcel, Moritz, Oliver, Simon R, Stefan, Susann, Tilo, Thomas, Ute, Simon D.</p>
+    <p><strong>Dank an die lernOS Supporter:</strong> bayernwerk, DATEV, Deutsche Telekom, LV1871, SAP, Siemens Healthineers, vitesco</p>
+  </small>
+</section>
+
+<section class="slide level3">
+  <h3>⚠️ Disclaimer ⚠️</h3>
+  <ol>
+    <li>Nutzt nur KI-Tools, die in Euren Organisationen erlaubt sind!</li>
+    <li>Kopiert keine unzulässige Daten in KI-Tools.</li>
+    <li>Außer den fünf Livesessions ist alles im MOOC selbstorganisiert.</li>
+  </ol>
+  </section>
+  
+
+<section class="slide level3">
+  <h3>Was ist ein MOOC❓</h3>
+  <small>
+  <ol>
+    <li>Ein <strong>  MOOC</strong> (<a href="https://de.wikipedia.org/wiki/Massive_Open_Online_Course" target="_blank">massive open online course</a>) ist ein <strong>Kurs</strong> ...
+      <ul>
+        <li>mit einer großen Anzahl Teilnehmer:innen (massive)</li>
+        <li>an dem alle teilnehmen können (open)</li>
+        <li>und der überwiegend im Netz stattfindet (online)</li>
+      <br/></ul>
+    </li>
+    <li>MOOCs unterscheiden sich von klassischen e- Learning-Ansätzen durch den Grad der <strong>Interaktivität der Lernenden</strong> (z.B. in Chats, Linkedin, Mastodon).<br/><br/></li>
+    <li>Man unterscheidet <strong>xMOOCs</strong> (abgefilmte Vorlesungen, Quizzes) und <strong>cMOOCs</strong> (Bereitstellung von Impulsen, Diskurs zwischen den Teilnehmer:innen).</li><br/></li>
+    <li>Der <strong>lernOS KI MOOC</strong> ist ein cMOOC.</li>
+  </ol>
+</small>
+  </section>
+
+<section class="slide level3">
+  <h3>🎯 Unsere Ziele</h3>
+  <ol>
+    <li>Ihr alle lernt und vertieft den <strong>Future Skill</strong> <a href="https://de.wikipedia.org/wiki/Prompt_Engineering" target="_blank">Prompting</a>.</li>
+    <li>Ihr alle <strong>erstellt ein Werk</strong> mit <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">generativer KI</a> und veröffentlicht es zusammen mit den gemachten Erfahrungen.</li>
+    <li>Ihr alle gebt <strong></strong>konstruktives Feedback</strong> zum <a href="https://ai.lernos.org" target="_blank">lernOS KI Leitfaden</a>.</li>
+  </ol>
+  <img src="https://lernos.org/de/images/lernos-ai-lernpfad-gif.gif" width="20%" /><br />
+  <small><p>Bild: <a href="https://www.linkedin.com/in/katrin-maentele/" target="_blank">Katrin Mäntele</a> (CC BY)</p></small>
+  </section>
+
+<section>
+  <h3>✅ Vorbereitung</h3>
+    <ol>
+      <li>Tragt euch die Termine für die Livesessions in den Kalender ein (<a href="https://cloud.cogneon.de/s/knGEWLRpbn2Ewjb">ICS-Datei</a>), der Teams-Einwahllink steht auf meetup.com (oben rechts).</li>
+      <li>Tragt euch in die <a href="https://padlet.com/loscon1/kimooc24" target="_blank">kimooc24 Map</a>, z.B. um Mit-Lernende zu finden!</li>
+      <li>(Optional) Plant euch die <a href="https://loscon.lernos.org" target="_blank">lernOS Convention</a> (2.-3.7.) auf der Kaiserburg Nürnberg und Online zum Erfahrungsaustausch ein.</li>
+    </ol>
+</section>
+
+<section class="slide level3">
+  <section>
+  <h3>⏰ Ablauf</h3>
+    <ol>
+      <li>Jeden <strong>Montag von 13:00-14:00</strong> Uhr gibt es eine <strong>Livesession</strong> (außer 20.5. & 27.5.).</li>
+      <li>Jede Woche gibt es <strong>Grundlagen und Übungen</strong> (Katas) zu absolvieren.</li>
+      <li>Ihr braucht etwas <strong>Zeit zum Selbststudium</strong>.</li>
+      <li>Ihr braucht 1 Stunde <strong>Zeit zum Treffen</strong> <a href="https://lernos.org/de/2-learning-circle/" target="_blank">im Learning Circle</a> (Weekly).</li>
+    </ol>
+  </section>
+
+  <section>
+    <h3>Woche 1️⃣ (06.-10.05.)</h3>
+    <small>
+    <ol type="1">
+      <li><strong>Thema:</strong> Teaming up with AI - Die ersten Schritte
+        <ul>
+          <li>Kapitel: <a href="https://ai.lernos.org/de/1-05-ai-models/" target="_blank">KI-Modelle</a></li>
+          <li>Kapitel: <a href="https://ai.lernos.org/de/1-06-ai-tools-services/" target="_blank">KI-Tools & Services</a></li>
+          <li>Kapitel: <a href="https://ai.lernos.org/de/1-08-ai-and-society/" target="_blank">KI & Gesellschaft</a></li>
+          <li>Kapitel: <a href="https://ai.lernos.org/de/1-02-neuronal-networks/" target="_blank">Neuronale Netze</a></li>
+        </ul>
+      </li>
+      <li><strong>Katas:</strong>
+        <ul>
+         <li>Kata 0: <a href="https://ai.lernos.org/de/2-01-kata-0/" target="_blank">Vorbereiten & Kennenlernen</a></li>
+         <li>Kata 1: <a href="https://ai.lernos.org/de/2-02-kata-1/" target="_blank">Bewusstsein schaffen</a></li>
+         <li>Kata 2: <a href="https://ai.lernos.org/de/2-03-kata-2/" target="_blank">Einstieg mit der KI</a></li>
+        </ul>
+      </li>
+    </ol>
+    </small>
+    </section>
+
+    <section class="slide level3">
+      <h3>Bildet Lerngruppen!<br/>🙈🙉🙊🤖</h3>
+      <ol>
+        <li>Alleine Lernen ist gut, gemeinsam Lernen ist besser!</li>
+        <li>Idee: Bildet Lerntandems oder Learning Circle (4-5 Personen), z.B. über Enterprise Social Networks (ESN), Soziale Netzwerke, <a href="https://web.peerfinder.app/" target="_blank">Peerfinder</a>, <a href="https://learningcircles.p2pu.org/de/course/1356/" target="_blank">P2PU</a> etc.</li>
+        <li>Idee: Bietet in eurer Region oder Organisation eine Lerngruppe an.</li>
+      </ol>
+      </section>
+    
+      <section class="slide level3">
+        <h3>📍kimooc24 Map</h3>
+        <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/moehod4uby24ibt9" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:500px;display:block;padding:0;margin:0"></iframe></p><div style="display:flex;align-items:center;justify-content:end;margin:0;height:28px"><a href="https://padlet.com?ref=embed" style="display:block;flex-grow:0;margin:0;border:none;padding:0;text-decoration:none" target="_blank"><div style="display:flex;align-items:center;"><img src="https://padlet.net/embeds/made_with_padlet_2022.png" width="114" height="28" style="padding:0;margin:0;background:0 0;border:none;box-shadow:none" alt="Mit Padlet erstellt"></div></a></div></div>
+    </section>
+  
+
+  <section>
+    <h3>Woche 2️⃣ (13.-17.05.)</h3>
+    <small>
+    <ol type="1">
+      <li><strong>Thema:</strong> KI auf dem Prüfstand - What's in it for me?</li>
+      <ul>
+        <li>Kapitel: <a href="https://ai.lernos.org/de/1-01-ai-machine-learning/" target="_blank">KI & Maschinelles Lernen</a></li>
+        <li>Kapitel: <a href="https://ai.lernos.org/de/1-04-ai-application-areas/" target="_blank">KI-Anwendungsfelder</a></li>
+        <li>Kapitel: <a href="https://ai.lernos.org/de/1-03-machine-vs-human-learning/" target="_blank">Maschinelles vs. menschliches Lernen</a></li>
+        <li>Kapitel: <a href="https://ai.lernos.org/de/1-09-further-information/" target="_blank">Weiterführende Informationen</a></li>
+    </ul>
+      <li><strong>Katas:</strong>
+        <ul>
+        <li>Kata 3: <a href="https://ai.lernos.org/de/2-04-kata-3/" target="_blank">KI als Dialogpartner</a></li>
+        <li>Kata 4: <a href="https://ai.lernos.org/de/2-05-kata-4/" target="_blank">Reflexion der Lernergebnisse</a></li>
+        <li>Kata 5: <a href="https://ai.lernos.org/de/2-06-kata-5/" target="_blank">Anwendungsfelder am eigenen Arbeitsplatz</a></li>
+        </ul>
+      </li>
+    </ol>
+    </small>
+    </section>
+
+    <section>
+      <h3>Woche 2️⃣ (13.-17.05.)</h3>
+      <small>
+      <ol>
+        <li>Problemchen aus Woche 1
+          <ul>
+            <li>Inhalte, Kapitel, Katas nicht gefunden 👉 <a href="https://loscon.lernos.org/de/kimooc24/" target="_blank">Infoseite</a>, Discord-Kanal oben</li>
+            <li>Wochen Onenote != Wochen kimooc24 👉 Wochen in Onenote löschen</li>
+            <li>Mehr Zeitaufwand, als angekündigt 👉 Zwei Wochen zum vertiefen</li>
+            <li>Finden von LearningCircle durch verschiedene Anlaufstellen schwierig 👉 Chat (jetzt), <a href="https://loscon.lernos.org/de/kimooc24/#kimooc24-learning-circle" target="_blank">Pad</a>, Discord</li>
+          </ul>
+        </li>
+        <li class="fragment">Meet the Maker 🧡: <a href="https://www.linkedin.com/in/leonid-lezner/" target="_blank">Leonid</a> von <a href="https://peerfinder.app" target="_blank"></a>peerfinder.app</li>
+        <li class="fragment"><a href="https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/" target="_blank">WOL = Observable Work + Narrating Your Work</a></li>
+        <li class="fragment">Habt ihr AHA-Momente, die ihr teilen möchtet? (✋)</li>
+        <li class="fragment">Anmeldung zum Hands-on KI Training mit meinGPT <a href="https://www.meetup.com/de-DE/cogneon/events/300880915/" target="_blank">über Meetup möglich</a></li>
+        <li class="fragment"><strong>ACHTUNG:</strong> Die nächsten beiden Wochen (20. & 27.06.) sind <strong>KEINE Livesessions</strong>, erst am 03.06. wieder</li>        
+      </ol>
+    </small>
+    </section>
+
+    <section>
+      <h3>Woche 3️⃣ (03.-07.06.)</h3>
+      <small>
+      <ol type="1">
+        <li><strong>Thema:</strong> Mein erster Blog- oder Social-Media-Beitrag mit KI-Support
+          <ul>
+            <li>Kapitel: <a href="https://ai.lernos.org/de/1-01-ai-machine-learning/" target="_blank">KI & Maschinelles Lernen</a></li>
+            <li>Kapitel: <a href="https://ai.lernos.org/de/1-07-prompts-erstellen/" target="_blank">Prompts erstellen</a></li>
+          </ul>
+        </li>
+        <li><strong>Katas:</strong>
+          <ul>
+          <li>Kata 6: <a href="https://ai.lernos.org/de/2-07-kata-6/" target="_blank">Vertiefung Deines Lernziels</a></li>
+          <li>Kata 7: <a href="https://ai.lernos.org/de/2-08-kata-7/" target="_blank">Zusammenarbeit mit KI</a></li>
+          <li>Kata 8: <a href="https://ai.lernos.org/de/2-09-kata-8/" target="_blank">Reflexion der Lernergebnisse</a></li>
+          <li>Kata 9: <a href="https://ai.lernos.org/de/2-10-kata-9/" target="_blank">KI als Träumer, Halluzinator oder Lügner</a></li>
+         </ul>
+        </li>
+      </ol>
+      </small>
+      </section>
+
+    <section>
+      <h3>Woche 3️⃣ (03.-07.06.)</h3>
+      <small>
+      <ol type="1">
+        <li>Gibt es noch organisatorische Probleme? Schreibt diese gerne in den Chat</li>
+        <li><a href="https://community.cogneon.de/t/lernos-ki-mooc-links-aus-dem-chat/4008" target="_blank">Links aus der Livesession Woche 2</a> auf CONNECT</li>
+        <li><a href="https://en.wikipedia.org/wiki/Prompt_engineering#Retrieval-augmented_generation" target="_blank">RAGs</a> selber bauen am Beispiel <a href="https://loscon.lernos.org" target="_blank">loscon24 Chatbot</a></li>
+        <li><a href="https://pretalx.com/loscon24/cfp" target="_blank">Call for Participation</a> (CfP) für Lightning Talks (5-minütige Kurzvorträge) auf der <a href="https://loscon.lernos.org" target="_blank">loscon24</a> mit Erfahrungsberichten aus dem kimooc24 (bis Freitag 7.6. einreichen)</li><br />
+        <li>👉 <strong>Grundlagen und Katas der Woche 3</strong> (Marcel) 👈</li><br />
+        <li>Infos zum <a href="https://www.meetup.com/de-DE/cogneon/events/300880915/" target="_blank">Hands-on KI Training: Konkrete Business Cases interaktiv lösen</a> am Donnerstag 06.06. von 15:00-17:00 Uhr (Florian)</li>
+        <li><a href="https://www.meetup.com/de-DE/cogneon/events/301032947/" target="_blank">Abschlusssession des kimooc24</a> am Freitag 21. Juni von 14:00-14:00 Uhr; optionale und kostenfreie Vor-Ort-Teilnahme im Rahmen des <a href="https://community.cogneon.de/t/lernos-ki-mooc-in-der-cogneon-akademie-nuernberg-de/3976" target="_blank">Knowledge Jam in der Cogneon Akademie</a> in Nürnberg</li>
+      </ol>
+      </small>
+      </section>
+
+    <section>
+      <h3>Woche 4️⃣ (10.-14.06.)</h3>
+      <small>
+      <ol type="1">
+        <li><strong>Thema:</strong> Prompting like a Pro - Prompt Engineering verstehen und anwenden
+        <ul>
+          <li>Kapitel: <a href="https://ai.lernos.org/de/1-07-prompts-erstellen/" target="_blank">Prompts erstellen</a></li>
+        </ul>
+        </li>
+        <li><strong>Katas:</strong>
+          <ul>
+          <li>Kata 10: <a href="https://ai.lernos.org/de/2-11-kata-10/" target="_blank">Souverän prompten Teil 1</a></li>
+          <li>Kata 11: <a href="https://ai.lernos.org/de/2-11-kata-11/" target="_blank">Souverän prompten Teil 2</a></li>
+          </ul>
+        </li>
+      </ol>
+      </small>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28zc2UwZDZldHo5NTd1b2RhMzNxMmNkMXEwamE3ZGtzNXYzcmxjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="30%" />
+      </section>
+
+      <section>
+        <h3>Woche 4️⃣ (10.-14.06.)</h3>
+        <small>
+        <ol type="1">
+          <li><a href="https://community.cogneon.de/t/lernos-ki-mooc-links-aus-dem-chat/4008#woche-3-3" target="_blank">Links aus der Livesession Woche 3 (inkl. Auswertung Lieblings-Tools</a> auf CONNECT</li>
+          <li><a href="https://pretalx.com/loscon24/cfp" target="_blank">Call for Participation</a> (CfP) für Lightning Talks (5-minütige Kurzvorträge) auf der <a href="https://loscon.lernos.org" target="_blank">loscon24</a> mit Erfahrungsberichten aus dem kimooc24 (bis Freitag 7.6. einreichen)</li><br />
+          <li>👉 <strong>Grundlagen und Katas der Woche 4</strong> (Marcel) 👈</li><br />
+          <li><a href="https://www.meetup.com/de-DE/cogneon/events/301032947/" target="_blank">Abschlusssession des kimooc24</a> am Freitag 21. Juni von 14:00-14:00 Uhr (Vergabe der kimooc24 Badges); optionale und kostenfreie Vor-Ort-Teilnahme im Rahmen des <a href="https://community.cogneon.de/t/lernos-ki-mooc-in-der-cogneon-akademie-nuernberg-de/3976" target="_blank">Knowledge Jam in der Cogneon Akademie</a> in Nürnberg</li>
+        </ol>
+        </small>
+        </section>
+  
+    <section>
+      <h3>Woche 5️⃣ (17.-21.06.)</h3>
+      <small>
+      <ol type="1">
+        <li><strong>Thema:</strong> Cool down - was haben wir gelernt?</li>
+        <li><strong>Kata:</strong> Kata 12: <a href="https://ai.lernos.org/de/2-12-kata-12/" target="_blank">Review und Lessons Learned</a></li>
+        <li><strong>Teilnahme-Badge:</strong> Wer einen <a href="https://de.wikipedia.org/wiki/Open_Badges" target="_blank">Open Badge</a> (s.a. Podcast <a href="https://www.joeran.de/jra127-openeducationalbadges/" target="_blank">Open Educational Badges</a>) möchte: schreibt einen Beitrag mit Euren Lessons Learned zum lernOS KI MOOC z.B. auf Linkedin, Mastodon, in Eurem Blog etc. und tragt den Link zum Beitrag in <a href="https://forms.office.com/e/h7DTWX80Rd" target="_blank">diesem Formular</a> ein. Dort könnt ihr zusätzlich angeben, ob ihr in der Abschlusssession am Freitag kurz über Eure Lessons Learned berichten wollt.</li>
+        <li><strong>Gemeinsamer Abschluss</strong> am 21.06. vor Ort in der Cogneon Akademie in Nürnberg (10:00-16:00 Uhr ➡️ <a href="https://community.cogneon.de/t/lernos-ki-mooc-in-der-cogneon-akademie-nuernberg-de/3976" target="_blank">Anmeldung</a>, <a href="https://cogneon.de/kontakt" target="_blank">Anfahrt</a>), Online (13:00-14:00 Uhr)</li>
+      </ol>
+      </small>
+      </section>
+
+    <section>
+      <h3>kimooc24 Abschlusssession</h3>
+      <img src="https://cdn.pixabay.com/photo/2022/11/01/08/01/grand-prix-7561576_1280.png" width="50%" />
+    </section>
+
+    <section>
+      <h3>Zahlen, Daten, Fakten</h3>
+      <img src="http://mfeldstein.com/wp-content/uploads/2013/03/studentPatternsInMoocs3-2.jpg" width="50%" />
+    </section>
+
+    <section>
+      <h3>Zahlen, Daten, Fakten</h3>
+      <small>
+      <p>In Klammern: Anmeldungen/Teilnahmen</p>
+      <ul>
+        <li><strong>Livesession 06.05.:</strong> 699 / 706 (No-Show-Rate: -1% 😉)</li>
+        <li><strong>Livesession 13.05.:</strong> 478 / 446 (No-Show-Rate: 6,7 %)</li>
+        <li><strong>Livesession 03.06.:</strong> 404 / 302 (No-Show-Rate: 25,2 %)</li>
+        <li><strong>Livesession 10.06.:</strong> 379 / 243 (No-Show-Rate: 35,9 %)</li>
+        <li><strong>Livesession 17.06.:</strong> 367 / 210 (No-Show-Rate: 42,8 %)</li>
+        <li><strong>Summe:</strong> 2.327 Teilnahmen 💪 (No-Show-Durchschnitt: 21,9 %)</li>
+      </ul>
+      </small>
+    </section>
+
+    <section>
+      <h3>Wir müssen reden ... über Kultur 😨</h3>
+      <img src="./images/kimooc24-knowledge-sharing.png" />
+      <p>Stichworte: #OpenByDefault, #SharingIsCaring, #LernenDurchLehren</p>
+    </section>
+
+    <section>
+      <h3>Bühne frei, falls doch jemand teilen mag: ☝️</h3>
+      <img src="https://cdn.pixabay.com/photo/2014/04/02/10/26/spotlight-303864_1280.png" width="75%" />
+    </section>
+
+    <section>
+      <h3><a href="https://forms.office.com/e/Wn3W7R6CJT" target="_blank">Feedback</a></h3>
+      <img src="./images/kimooc24-feedback-qr.png" width="60%" />
+    </section>
+
+    <section>
+      <h3>Wie geht es weiter?</h3>
+      <a href="https://community.cogneon.de" target="_blank"><img src="./images/connect-screenshot.png" width="60%" /></a>
+    </section>
+
+    <section>
+      <h3>Wie geht es weiter?</h3>
+      <a href="https://loscon.lernos.org" target="_blank"></a><img src="https://cogneon.de/wp-content/uploads/2024/01/loscon24-key-visual-2-1030x579.png" width="60%" />
+    </section>
+
+    <section>
+      <img src="https://cdn.pixabay.com/photo/2024/04/22/12/22/thank-you-8712489_1280.png" width="60%" />
+    </section>
+
+    </section>
+
+<section class="slide level3">
+  <h3>🛠️ Infrastruktur</h3>
+  <ol>
+    <li><a href="https://loscon.lernos.org/de/kimooc24/" target="_blank">Infoseite zum kimooc24</a> (Single Point of Truth)</li>
+    <li><a href="https://ai.lernos.org" target="_blank">lernOS KI Leitfaden</a> (DE, EN)</li>
+    <li>Kommentare an den Leitfaden-Seiten für inhaltliche Kommentare (z.B. <a href="https://ai.lernos.org/de/1-06-ai-tools-services/" target="_blank">KI-Tools</a>)</li>
+    <li><a href="https://discord.gg/u7cjPq6t6e">Chat-Kanal #kimooc24</a> auf Discord für asynchrone Fragen, Austausch zum MOOC</li>
+    <li><a href="https://www.linkedin.com/feed/hashtag/?keywords=kimooc24" target="_blank">#kimooc24 auf Linkedin</a> und <a href="https://colearn.social/tags/kimooc24" target="_blank">#kimooc24 auf Mastodon</a> (<a href="https://cogneon.github.io/mastowall/?hashtags=kimooc24&server=https://mastodon.social" target="_blank">Mastowall</a>) nutzen und folgen</li>
+    <li>Livesession verpasst? Alle Aufzeichnungen kommen in <a href="https://www.youtube.com/watch?v=EOoB-WDLp9U&list=PLsDEDkLIwmRwiZCwdKUBuHs5qK17XHi27" target="_blank">diese Youtube-Playliste</a></li>
+  </ol>
+  </section>
+
+  <section class="slide level3">
+    <img src="https://cdn.pixabay.com/photo/2016/11/30/12/09/question-mark-1872634_1280.jpg" />
+  </section>
+
+  <section class="slide level3">
+    <a href="https://loscon.lernos.org/de/kimooc24/"><img src="images/kimooc24-key-visual-1000px.jpg" /></a>
+  </section>
+
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@^4//dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js@^4//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: false,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>

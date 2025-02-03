@@ -1,0 +1,78 @@
+site_name: lernOS Convention 2024
+site_description: Infoseiten zur lernOS Convention 2024 mit allen Informationen zur Veranstaltung am 2.-3. Juli 2024.
+site_url: https://loscon.lernos.org
+docs_dir: src
+site_dir: ../docs/de
+edit_uri: ""
+
+repo_name: 'cogneon/loscon24'
+repo_url: 'https://github.com/cogneon/loscon24'
+
+
+nav:
+- Startseite: index.md
+- Kommunikation: communication.md
+- FAQ: faq.md
+- Vorbereitung:
+  - lernOS KI MOOC: kimooc24.md
+  - Vorab-Webkonferenz: pre-call.md
+  - Merch: merch.md
+  - lernOS Smart Card: smartcard.md
+  - Mitbringen: to-bring.md
+  - Anreise: getting-there.md
+  - Nachhaltigkeit: sustainability.md
+  - Vorabend: eve.md
+- Veranstaltungsort:
+  - Burg Nürnberg: location.md
+  - Dezentrale Lokationen: loscon-everywhere.md
+  - Barrierefreiheit: accessibility.md
+  - Lego-Tisch: lego.md
+  - Podcast-Tisch: podcasting.md
+  - Bibliothek: library.md
+
+- Programm:
+  - Coworking: coworking.md
+  - Programm: program.md
+  - Abendprogramm: party.md
+  - Archiv: archive.md
+- Toolset:
+  - Netzwerk: network.md
+  - Teams & HMK: hmk.md
+  - Discord: discord.md
+- Orga:
+  - Orga-Team: orga-team.md
+  - Design: design.md
+  - Infoseiten bearbeiten: infopages.md
+  - Auf-/Abbau: logistics.md
+  - Badge: badge.md
+  - Stückliste: bom.md
+  - Email: email.md
+
+theme:
+    name: readthedocs
+    custom_dir: src/overrides
+    locale: de
+    logo: img/loscon24-badge.png
+
+copyright: Creative Commons Namensnennung 4.0 International (CC BY)
+
+extra_css:
+  - loscon24.css
+
+extra_javascript:
+  - javascripts/matomo.js
+
+extra:
+    analytics:
+       provider: custom
+    giscus: true
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - rss
