@@ -4,7 +4,7 @@
 
 Die **lernOS Convention** ist das Top-Event zu **Wissensmanagement** und **Lernenden Organisationen** im deutschsprachigen Raum. Der digitale Arbeitsplatz, moderne Intranets, New Ways of Working und persönliches Wissensmanagement für Wissensarbeiter:innen und Lernende Teams sind die zentralen Themen.
 
-Die **8. lernOS Convention** ([#loscon24](https://colearn.social/tags/loscon24)) findet vom **2.-3. Juli 2024** auf der **Kaiserburg Nürnberg** & **Online** per MS Teams statt (hybride Veranstaltung). Das Motto ist **“Generative KI als Wissensgefährten”** (s.a. [Blog dazu](https://cogneon.de/2024/05/18/generative-ki-als-wissensgefaehrte-das-thema-der-lernos-convention-2024/)), im Zentrum steht die Frage, wie wir die Generative KI (GenAI, z.B. ChatGPT, Microsoft Copilot) in den Alltag unserer Wissensarbeit integrieren können, um dadurch produktiver und kreativer zu werden.
+Die **9. lernOS Convention** ([#loscon24](https://colearn.social/tags/loscon24)) findet vom **2.-3. Juli 2024** auf der **Kaiserburg Nürnberg** & **Online** per MS Teams statt (hybride Veranstaltung). Das Motto ist **“Generative KI als Wissensgefährten”** (s.a. [Blog dazu](https://cogneon.de/2024/05/18/generative-ki-als-wissensgefaehrte-das-thema-der-lernos-convention-2024/)), im Zentrum steht die Frage, wie wir die Generative KI (GenAI, z.B. ChatGPT, Microsoft Copilot) in den Alltag unserer Wissensarbeit integrieren können, um dadurch produktiver und kreativer zu werden.
 
 Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon24/) verfügbar.
 
