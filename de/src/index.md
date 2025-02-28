@@ -14,7 +14,7 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
     Die Aufzeichnungen der Impulse, Lightning Talks und Sessions sind mittlerweile [als Youtube-Playliste verfügbar](https://www.youtube.com/watch?v=-IrLeGh44YU&list=PLsDEDkLIwmRw5AQVfa-6mkLJhdHp3XnMi&pp=gAQBiAQB). **SAVE THE DATE**: die lernOS Convention 2025 findet vom 1.-2. Juli 2025 auf der Kaiserburg Nürnberg und Online statt.
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-4y9k" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2024-07-02 10:00">loscon24 Countdown</a>
+<a href="https://logwork.com/countdown-4y9k" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2024-07-02 10:00">loscon25 Countdown</a>
 
 ## Alle Infos für die reibungslose Teilnahme
 1. **WANN** und **WO** geht es los? Am 1.7. gibt es ein informelles [Vorabend-Treffen](eve.md) ab ca. 19:00 Uhr, für das eine kostenlose Anmeldung notwendig ist. Wer mag, kann am 2.7. schon zum [Coworking](coworking.md) in die [Burg](location.md) kommen, das Programm startet um 13:00 Uhr. Bringt euer elektronische Ticket auf dem Smartphone mit (s.a. [FAQ](faq.md)).
