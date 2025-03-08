@@ -14,7 +14,6 @@ nav:
 - Kommunikation: communication.md
 - FAQ: faq.md
 - Vorbereitung:
-  - lernOS KI MOOC: kimooc24.md
   - Vorab-Webkonferenz: pre-call.md
   - Merch: merch.md
   - lernOS Smart Card: smartcard.md
@@ -26,7 +25,6 @@ nav:
   - Burg Nürnberg: location.md
   - Dezentrale Lokationen: loscon-everywhere.md
   - Barrierefreiheit: accessibility.md
-  - Lego-Tisch: lego.md
   - Podcast-Tisch: podcasting.md
   - Bibliothek: library.md
 
@@ -66,6 +64,7 @@ extra:
     analytics:
        provider: custom
     giscus: true
+    generator: false
 
 markdown_extensions:
   - attr_list

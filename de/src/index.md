@@ -1,52 +1,35 @@
-![](img/loscon25-banner.png)
-
-# Willkommen zur lernOS Convention 2025 💛
-
 !!! info "Hinweis"
     Die Infoseiten befinden sich noch im Aufbau und enthalten sicher Falschinformationen.
+    
+# Willkommen zur lernOS Convention 2025 💛
+
+![](img/loscon25-banner.png)
 
 Die **lernOS Convention** ist das Top-Event zu **Wissensmanagement** und **Lernenden Organisationen** im deutschsprachigen Raum. Der digitale Arbeitsplatz, moderne Intranets, New Ways of Working und persönliches Wissensmanagement für Wissensarbeiter:innen und Lernende Teams sind die zentralen Themen.
 
-Die **9. lernOS Convention** ([#loscon24](https://colearn.social/tags/loscon24)) findet vom **1.-2. Juli 2025** auf der **Kaiserburg Nürnberg** & **Online** per MS Teams statt (hybride Veranstaltung). Das Motto ist **“Generative KI als Wissensgefährten”** (s.a. [Blog dazu](https://cogneon.de/2024/05/18/generative-ki-als-wissensgefaehrte-das-thema-der-lernos-convention-2024/)), im Zentrum steht die Frage, wie wir die Generative KI (GenAI, z.B. ChatGPT, Microsoft Copilot) in den Alltag unserer Wissensarbeit integrieren können, um dadurch produktiver und kreativer zu werden.
+Die **9. lernOS Convention** ([#loscon25](https://cogneon.github.io/mastowall/?hashtags=loscon25,lernos&server=https://colearn.social)) findet vom **1.-2. Juli 2025** auf der **Kaiserburg Nürnberg** & **Online** statt (hybride Veranstaltung). Das Motto ist **“Mind the Knowledge Gap”** (s.a. [Blog-Beitrag](https://cogneon.de/2025/03/02/mind-the-knowledge-gap-das-motto-der-lernos-convention-2025/) dazu).
 
-Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon24/) verfügbar.
+Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon25/) verfügbar.
 
 <button type="button"><a href="https://cogneon.de/event/lernos-convention-2025/" target="_blank">Landing Page</a></button> <button type="button"><a href="https://pretix.eu/cogneon/loscon25/" target="_blank">Tickets</a></button> <button type="button"><a href="https://cogneon.de/2025/03/02/mind-the-knowledge-gap-das-motto-der-lernos-convention-2025/" target="_blank">Blog zum Leitthema</a></button>
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2025-07-01 13:00">Countdown Timer</a>
+<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2025-07-01 13:00">loscon25 Countdown</a>
 
 
 ## Wichtige Termine
 
-- **19.01.:** Golive Website [cogneon.de/loscon24](https://cogneon.de/loscon24) und Ticketshop
-- **26.01.:** Orga-Team Call for Participation (13:00 - 14:00 Uhr, Info-Termin für alle, die mit dem Gedanken spielen, in der Orga mitzuhelfen)
-- **02.02.:** Start der Orga-Calls des loscon24 Teams (jeweils Freitags, 10:00 - 11:00 Uhr)
-- **29.02.:** Ende der Anmeldephase für Gutscheine Leitfaden-Teams
-- **01.03.:** Start Promo und Social Media Aktivitäten
-- **04.03.:** Golive [Call for Participation](https://pretalx.com/loscon24/cfp) (Einreichung von Programmvorschlägen)
-- **06.05.-21.06.:** [lernOS Künstliche Intelligenz (KI) MOOC](kimooc24.md)
-- **01.06.:** [Programm](https://pretalx.com/loscon24/schedule/) Version 1.0 ist fertig (kuratiertes Programm, Hälfte der Barcamp-Sessions)
-- **25.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), Infomail an Teilnehmer:innen mit Einladung in loscon24-Discord-Server und Kalendereinträgen
-- **01.07.:** Aufbau in der Burg (voraussichtlich ab Mittag)
-- **01.07.:** [Vorabend-Treffen](eve.md) bei der Eröffnungsveranstaltung des [Nürnberg Digital Festivals](https://nuernberg.digital) (kostenlose Anmeldung notwendig)
-- **02.-03.07.:** [lernOS Convention 2024](https://cogneon.de/loscon24)
-- **12.07.:** loscon24 Retro des [Orga-Teams](orga-team.md) (10:00 - 11:00 Uhr)
+- **21.02.:** Start der Orga-Calls des [Orga-Teams](orga-team.md) (jeweils Freitags, 09:00 - 10:00 Uhr)
+- **10.03.:** Golive Landing Page [cogneon.de/loscon25](https://cogneon.de/loscon25) und Ticketshop und Versand Einladung an loscon-Alumni
+- **dd.mm.:** Golive [Call for Participation](https://pretalx.com/loscon24/cfp) (Einreichung von Programmvorschlägen)
+- **dd.mm.:** Programm Version 1.0 ist fertig
+- **23.06.:** Einladung aller Teilnehmer:innen in den Discord-Server der loscon
+- **26.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), im Anschluss ist von 14:00-15:00 Uhr Zeit zum betreuten Testen von Discord
+- **30.06.:** Aufbau in der Burg (voraussichtlich ab Mittag)
+- **30.06.:** [Vorabend-Treffen](eve.md) bei der Eröffnungsveranstaltung des [Nürnberg Digital Festivals](https://nuernberg.digital) im [Künstlerhaus am Hauptbahnhof](https://www.kunstkulturquartier.de/kuenstlerhaus) (kostenlose Anmeldung notwendig)
+- **01.-02.07.:** [lernOS Convention 2025](https://cogneon.de/loscon25)
+- **11.07.:** loscon-Retro des [Orga-Teams](orga-team.md) (09:00 - 10:00 Uhr)
 
-
-## Alle Infos für die reibungslose Teilnahme
-
-1. **WANN** und **WO** geht es los? Am 1.7. gibt es ein informelles [Vorabend-Treffen](eve.md) ab ca. 19:00 Uhr, für das eine kostenlose Anmeldung notwendig ist. Wer mag, kann am 2.7. schon zum [Coworking](coworking.md) in die [Burg](location.md) kommen, das Programm startet um 13:00 Uhr. Bringt euer elektronische Ticket auf dem Smartphone mit (s.a. [FAQ](faq.md)).
-2. Denkt beim **WIE** der [Anreise](getting-there.md) bitte an die [Nachhaltigkeit](sustainability.md). Kommt mit der Bahn, bildet Fahr- und Wohngemeinschaften. Für die Bahn haben wir Euch extra ein günstiges Eventticket organisiert.
-3. Es gibt ein paar Dinge, die ihr [mitbringen](to-bring.md) solltet. Dazu gehören auf jeden Fall ein eigenes Endgerät (Session Owner Laptop, sonst reicht auch Smartphone, Tablet) und ein Headset/Kabelmikro für den hybriden Austausch.
-4. Das [Programm](program.md) verwalten wir wieder über pretalx. Speichert Euch den Link am besten in den Favoriten. Das **Programm ist responsiv** und kann [per iCal-Feed](https://pretalx.com/loscon24/schedule/export/schedule.ics) im Kalender abonniert werden. An Tag 1 sind wir mit Impulsen, Vernetzungssession und Lightning Talks alle zusammen, an Tag 2 geht es im Barcamp-Format in 4 parallele Tracks. Davon sind 8 Sessions schon vorausgewählt, 8 können über den Kanal *#session-pitch*  auf Discord vorgeschlagen werden (Voting an Tag 2 zw. 09:00-09:45 Uhr).
-5. Im [Abendprogramm](party.md) gibt es ca. ab 18:00 Uhr Musik mit "Sound of 23" (spr & Benno). Es gibt XLR- und Klinken-Eingänge, falls jemand Instrumente mitbringen mag. Außerdem spielen wir am Abend eine Runde **Prompt Battle**. Dafür brauchen wir 8 Teilnehmer:innen, die gegeneinander prompten. Wer mitmachen will, kann sich [in dieses Formular eintragen](https://cloud.cogneon.de/apps/forms/s/issNXCcPgcdtdWgy5HizKdtJ) (geht nur vor Ort, übertragen wird aber auch online).
-6. Dieses Jahr haben wir für **besseres WiFi** gesorgt. Ihr könnt das Netz "DJH Event" nutzen, für die Livestreams und Breakout-Räume nutzen wir mit "Cogneon EventNet" ein eigenes Netzwerk.
-7. Die **wichtigsten Tools** sind wieder **Microsoft Teams** (für Bühne und Breakout-Räume, Chat ist deaktiviert) und **Discord** (für Chat, Austausch und Vernetzung). In den Breakout-Räumen sind wieder unsere [Hybrid Meeting Kits](hmk.md) in Betrieb und den ganzen Tag in die Videokonferenz eingewählt. Alle vor Ort wählen sich bitte mit der Option "Ohne Audio" ein. Bei Fragen und Problemen gibt es **Room Buddies**, die helfen können.
-8. **Be excellent to each other.** Seit diesem Jahr unterstützt die lernOS Community den [Berlin Code of Conduct](https://berlincodeofconduct.org/de/). Dadurch wollen wir eine vielfältige Gemeinschaft fördern, in der sich jeder mit den eigenen Beiträgen sicher fühlen kann.
-9. Bei allen **offenen Fragen** kannst Du Dich an das [Orga-Team](orga-team.md) wenden ([Email](mailto:loscon@lernos.org)) oder in den Kanal #infodesk posten (erst zur Veranstaltung dauerhaft besetzt, vorher kann es etwas dauern).
-
-
-## Eindrücke der loscon23
+## Eindrücke von früheren lernOS Conventions
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W0UaN3bcmXc?si=ObdDokULBMWcYWjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
