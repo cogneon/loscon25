@@ -4,9 +4,9 @@ Das Orga-Team hat ab dem 21.02.2025 einen **wöchentlichen Orga-Call** jeweils *
 
 ## Infrastruktur
 
-- **Kommunikation:** Kanal #orga-chat auf dem loscon25 Discord-Server und ein [öffentlicher Orga-Thread auf CONNECT](https://community.cogneon.de/t/loscon25-orga-thread/4139)
-- **Dokumentation:** [Wiki](https://github.com/cogneon/loscon25/wiki) im Github-Repo loscon24
-- **Aufgabenverwaltung:** [Issues](https://github.com/cogneon/loscon25/issues) im Github-Repo loscon24
+- **Kommunikation:** Kanal #orga-chat auf dem loscon Discord-Server und ein [öffentlicher Orga-Thread auf CONNECT](https://community.cogneon.de/t/loscon25-orga-thread/4139)
+- **Dokumentation:** [Wiki](https://github.com/cogneon/loscon25/wiki) im Github-Repo der loscon
+- **Aufgabenverwaltung:** [Issues](https://github.com/cogneon/loscon25/issues) im Github-Repo der loscon
 - **Dateien:** Ordner in COSHARE (Nextcloud)
 
 ## Das diesjährige loscon Team
