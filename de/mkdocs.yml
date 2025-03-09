@@ -32,9 +32,11 @@ nav:
   - Abendprogramm: party.md
   - Archiv: archive.md
 - Toolset:
-  - Netzwerk: network.md
-  - Teams & HMK: hmk.md
+  - Hybrid Meeting Kit: hmk.md
+  - Teams: teams.md
   - Discord: discord.md
+  - Remo: remo.md
+  - Netzwerk: network.md
 - Orga:
   - Orga-Team: orga-team.md
   - Design: design.md

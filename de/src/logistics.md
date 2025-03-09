@@ -1,6 +1,6 @@
 # Auf- und Abbau
 
-Der **Aufbau** erfolgt wieder am **01.07.2024**. Der **Abbbau** erfolgt nach dem Abschluss der loscon24 am **03.07.2024 ab 16:00 Uhr**. Für beides werden helfende Hände benötigt 🤗
+Der **Aufbau** erfolgt am **30.06.**. Der **Abbbau** erfolgt nach dem Abschluss der loscon am **02.07.2024 von 16:00 bis ca. 18:00 Uhr**. Für beides werden helfende Hände benötigt 🤗
 
 Wir bringen alles Equipment in beschrifteten Kisten in einem Transporter in die Burg. Die Kisten lagern wir während der Veranstaltung im Lagerraum links der Bühne. An Tag 2 muss alles bis 18h wieder in den Kisten im Transporter sein.
 
@@ -13,7 +13,6 @@ Wir bringen alles Equipment in beschrifteten Kisten in einem Transporter in die 
 - Breakout-Räume aufbauen (HMKs, Beamer, Leinwände)
 - Podcast-Tisch aufbauen
 - Mastowall aufbauen (Kurzdistanz-Beamer)
-- Lego-Tisch aufbauen
 - Tapeart?
 
 ## Abbau-Checkliste

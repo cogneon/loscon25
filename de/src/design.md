@@ -1,14 +1,14 @@
 # Design
 
 ## Farben und Fonts
-- **Farbe:** #ed1b24 (rot)
-- **Farbe:** #2e3192 (blau)
-- **Font:** [Army](https://www.dafont.com/ringbearer.font)
+- **Farbe rot:** #ed1b24
+- **Farbe blau:** #2e3192
+- **Font:** [Army Rust](https://www.dafont.com/army-rust.font)
 
 ## Key Visual
-![](img/loscon24-key-visual.png)
+![](img/loscon25-key-visual.png)
 
 ## Musik
-Remixe und 8-Bit-Varianten von Fellowship of the Ring.
+London Techno Tube (Mind the Gap Remix9 von Oskar Brennan
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Mi_3xRQSkz4?si=v9XAd8RobizMnWb_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1pYZrtSzXu4?si=eGQcQ8k5ueoSpA77" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
