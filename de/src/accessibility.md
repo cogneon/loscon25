@@ -4,15 +4,15 @@ Auf den Postern der lernOS Convention (#loscon23) steht schon seit dem ersten Ma
 
 ## loscon24 Infoseiten
 
-![Ergebnis des Barrierefreiheitstest der loscon24 Infoseiten](./img/accessibility-infopages.png)
+Ergebnisse fügen wir hier ein.
 
 ## loscon24 Programm (pretalx)
 
-![Ergebnis des Barrierefreiheitstest des loscon24 Programms](./img/accessibility-pretalx.png)
+Ergebnisse fügen wir hier ein.
 
 ## loscon24 Merch-Shop (spreadshirt)
 
-![Ergebnis des Barrierefreiheitstest des loscon24 Merch-Shops](./img/accessibility-spreadshirt.png)
+Ergebnisse fügen wir hier ein.
 
 ## Microsoft Teams (Web-Version)
 
@@ -20,7 +20,4 @@ Microsoft Teams lies sich leider mit Lighthouse nicht testen. Daher können wir 
 
 ## Discord (Web-Version)
 
-![Ergebnis des Barrierefreiheitstest der Discord Web-Version](./img/accessibility-discord.png)
-
-## Conceptboard
-**Hinweis:** nachdem unser **Whiteboard** (Conceptboard) mit **72/100 Punkten** einen recht schlechten Wert der Barrierefreiheit hatte und sich Whiteboards für hybride Events ohnehin nicht so gut eignenen (schlecht mit mobilen Endgeräten zu bedienen, nicht responsiv), werden wir dieses Jahr auf ein globales Whiteboard verzichten. In Sesssion können aber Pads und Whiteboards eingesetzt werden.
+Ergebnisse fügen wir hier ein.
