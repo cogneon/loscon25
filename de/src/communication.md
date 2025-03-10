@@ -8,7 +8,7 @@ Wir haben versucht, die wichtigsten Informationen auf den **loscon Infoseiten** 
 
 ## Während der Veranstaltung
 - [Discord](discord.md) ist der wichtigste synchrone Kommunikationskanal während der Veranstaltung. Dort ist auch unser **virtueller Infodesk** (Kanal #infodesk) zu erreichen. Alle Teilnehmer:innen werden vor der Vorab-Webkonferenz zum Discord-Server eingeladen.
-- Auf der Veranstaltung wird es wieder eine [Mastowall zum Hashtag #loscon25](https://cogneon.github.io/mastowall/?hashtags=loscon25,lernos,kimooc25&server=https://colearn.social) geben.
+- Auf der Veranstaltung wird es wieder eine [Fediwall zum Hashtag #loscon25](https://lernos.org/fediwall) geben.
 
 ## Nach der Veranstaltung
 
