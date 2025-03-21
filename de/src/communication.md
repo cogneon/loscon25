@@ -1,5 +1,5 @@
 # Kommunikationskanäle
-Wir haben versucht, die wichtigsten Informationen auf den **loscon Infoseiten** zu dokumentieren. Unten rechts findet ihr den **loscon Chatbot**, dem ihr Fragen zur Veranstaltung stellen könnt. Wenn Fragen offen bleiben, erreicht ihr das Orga-Team per E-Mail über [loscon@lernos.org](mailto:loscon@lernos.org).
+Wir haben versucht, die wichtigsten Informationen auf den **loscon Infoseiten** zu dokumentieren. Unten rechts findet ihr den **loscon Chatbot Suri**, dem ihr Fragen zur Veranstaltung stellen könnt. Wenn Fragen offen bleiben, erreicht ihr das Orga-Team per E-Mail über [loscon@lernos.org](mailto:loscon@lernos.org).
 
 ## Vor der Veranstaltung
 - Die **Linkedin-Seite** [lernOS](https://www.linkedin.com/showcase/28494203/) informiert über die loscon. Auf der Seite ist ein **Linkedin-Event** [lernOS Convention 2025](https://www.linkedin.com/events/7304032810544123904/comments/) angelegt. Nehmt an dem Event teil, damit Eurer Netzwerk davon mitbekommt. Das Ticket kann nicht über Linkedin gekauft werden. Über *Teilen > Einladen* könnt ihr euer Netzwerk direkt über Linkedin zur loscon einladen.

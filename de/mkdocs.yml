@@ -1,6 +1,6 @@
 site_name: lernOS Convention 2025
 site_description: Infoseiten zur lernOS Convention 2025 mit allen Informationen zur Veranstaltung am 1.-2. Juli 2025.
-site_url: https://loscon.lernos.org
+site_url: https://loscon.lernos.org/de
 docs_dir: src
 site_dir: ../docs/de
 edit_uri: ""
