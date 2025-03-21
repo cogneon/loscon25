@@ -5,7 +5,7 @@
 
 ![](img/loscon25-banner.png)
 
-Die **9. lernOS Convention** ([#loscon25](https://cogneon.github.io/mastowall/?hashtags=loscon25,lernos&server=https://colearn.social)) findet vom **1.-2. Juli 2025** auf der **Kaiserburg Nürnberg** & **Online** statt (hybride Veranstaltung). Das Motto ist **“Mind the Knowledge Gap”** (s.a. [Blog-Beitrag](https://cogneon.de/2025/03/02/mind-the-knowledge-gap-das-motto-der-lernos-convention-2025/) dazu).
+Die **9. lernOS Convention** ([#loscon25](https://cogneon.github.io/mastowall/?hashtags=loscon25,lernos&server=https://colearn.social)) findet vom **1.-2. Juli 2025** auf der **Kaiserburg Nürnberg** & **Online** statt (hybride Veranstaltung). Das Motto ist **“Mind the Knowledge Gap”**. Ausführliche Informationen zur Themenstellung findest du in [diesem Blog-Beitrag](https://cogneon.de/2025/03/02/mind-the-knowledge-gap-das-motto-der-lernos-convention-2025/).
 
 Die **lernOS Convention** ist das Top-Event zu **Wissensmanagement** und **Lernenden Organisationen** im deutschsprachigen Raum. Der digitale Arbeitsplatz, moderne Intranets, New Ways of Working und persönliches Wissensmanagement für Wissensarbeiter:innen und Lernende Teams sind die zentralen Themen.
 
@@ -18,9 +18,9 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
 ## Wichtige Termine
 
 - **21.02.:** Start der Orga-Calls des [Orga-Teams](orga-team.md) (jeweils Freitags, 09:00 - 10:00 Uhr)
-- **10.03.:** Golive Landing Page [cogneon.de/loscon25](https://cogneon.de/loscon25) und Ticketshop und Versand Einladung an loscon-Alumni
-- **dd.mm.:** Golive [Call for Participation](https://pretalx.com/loscon24/cfp) (Einreichung von Programmvorschlägen)
-- **dd.mm.:** Programm Version 1.0 ist fertig
+- **10.03.:** Golive Landing Page [cogneon.de/loscon25](https://cogneon.de/loscon25) und [Ticketshop](https://pretix.eu/cogneon/loscon25/) und Versand Einladung an loscon-Alumni
+- **24.03.:** Golive [Call for Participation](https://pretalx.com/loscon25/cfp) (CfP, Einreichung von Programmvorschlägen bis 23.05. um 23:59 Uhr)
+- **02.06.:** Programm Version 1.0 ist fertig 🎉
 - **23.06.:** Einladung aller Teilnehmer:innen in den Discord-Server der loscon
 - **26.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), im Anschluss ist von 14:00-15:00 Uhr Zeit zum betreuten Testen von Discord
 - **30.06.:** Aufbau in der Burg (voraussichtlich ab Mittag)
