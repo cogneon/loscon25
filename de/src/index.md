@@ -1,6 +1,3 @@
-!!! info "Hinweis"
-    Die Infoseiten befinden sich noch im Aufbau und enthalten sicher Falschinformationen.
-    
 # Willkommen zur lernOS Convention 2025 💛
 
 ![](img/loscon25-banner.png)
