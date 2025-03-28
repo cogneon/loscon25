@@ -1,0 +1,1 @@
+Das Konzept für die Dokumentation der loscon ist noch in Arbeit. Alle Dokumentationen werden unter [https://wiki.cogneon.de/loscon25](https://wiki.cogneon.de/loscon25) zugreifbar sein.
