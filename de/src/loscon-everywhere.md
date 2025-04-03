@@ -25,5 +25,4 @@ Die möglichen Lokalgruppen werden dabei unterstützt, sich möglichst selbst zu
 das erfordert ein (virtuelles) Vorbereitungstreffen.
 Das Orga-Team wird zu entsprechenden Treffen einladen und die Stimmung/ Motivation ausloten, auch einen kleinen Leitfaden anbieten, wie man sich untereinander organisieren könnte. 
 
-
 <iframe name="embed_readwrite" src="https://zumpad.zum.de/p/loscon25dezentrale?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
