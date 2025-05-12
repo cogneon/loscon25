@@ -15,6 +15,7 @@ nav:
 - FAQ: faq.md
 - Vorbereitung:
   - Vorab-Webkonferenz: pre-call.md
+  - Close the Gap!: gap-closer.md
   - Merch: merch.md
   - lernOS Smart Card: smartcard.md
   - Mitbringen: to-bring.md
@@ -29,6 +30,7 @@ nav:
 - Programm:
   - Coworking: coworking.md
   - Programm: program.md
+  - Promptathon: promptathon.md
   - Abendprogramm: party.md
   - Dokumentation: documentation.md
   - Archiv: archive.md
