@@ -6,7 +6,7 @@ Wenn jemand eine dezentrale Lokation im Rahmen der lernOS Convention anbieten m�
 
 !!! tip "WICHTIG"
 
-    Für alle, die mit dem Gedanken spielen, einen Satelliten zu organisieren bieten wir **am 06.05.2025 von 13-14 Uhr** eine **Sprechstunde** an ([Anmeldung](https://events.teams.microsoft.com/event/2e11009b-585e-4baa-acac-bf6d77475a14@93e1683c-5df4-46ff-8c5a-de6f62e19d5d)), bei dem wir die Idee erklären und offene Fragen beantworten.
+    Für alle, die mit dem Gedanken spielen, einen Satelliten zu organisieren bieten wir **am 03.06.2025 von 13-14 Uhr** eine **Sprechstunde** an ([Anmeldung](https://events.teams.microsoft.com/event/35856528-3b68-432e-943c-f53462826d01@93e1683c-5df4-46ff-8c5a-de6f62e19d5d)), bei dem wir die Idee erklären und offene Fragen beantworten.
 
 ## Wie kann ein loscon Satellit aussehen?
 Ein Satellit kann ganz verschiedene Formen haben, **von ganz klein bis etwas größer**. Einige Beispiele, die eurer Kreativität aber keine Grenzen setzen sollen:
