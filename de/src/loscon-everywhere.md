@@ -2,11 +2,47 @@
 
 **Zusammen ist man weniger allein!** Unter dem Motto **"loscon Everywhere"** wollen wir mit den sog. **loscon Satelliten** dezentrale Veranstaltungsorte für die lernOS Convention fördern (Vorbild: [Congress Everywhere des CCC](https://events.ccc.de/congress/2019/wiki/index.php/Congress_Everywhere)). Bei der loscon24 gab es z.B. eine Teilnahmemöglichkeit in einem Coworking Space in Solothurn in der Schweiz. Für die Teilnahme in einem Satelliten ist wie bei Teilnahme aus dem Home Office ein [Online-Ticket](https://pretix.eu/cogneon/loscon25/) notwendig. Wir fragen mit der Anmeldung zur loscon Satelliten-Angebote und -Nachfragen ab und unterstützen die Selbstorganisation wo möglich.
 
-Wenn jemand eine dezentrale Lokation im Rahmen der lernOS Convention anbieten möchte, bitte [mit Simon Kontakt aufnehmen](mailto:simon.dueckert@cogneon.de?subject=loscon%20Satellit) oder unten mit Kontaktmöglichkeit in die Liste schreiben.
-
 !!! tip "WICHTIG"
 
-    Für alle, die mit dem Gedanken spielen, einen Satelliten zu organisieren bieten wir **am 03.06.2025 von 13-14 Uhr** eine **Sprechstunde** an ([Anmeldung](https://events.teams.microsoft.com/event/35856528-3b68-432e-943c-f53462826d01@93e1683c-5df4-46ff-8c5a-de6f62e19d5d)), bei dem wir die Idee erklären und offene Fragen beantworten.
+    Für die einzelnen Satelliten sind ggf. extra Anmeldungen nötig. Bitte den Text beim jeweiligen Satellit genau lesen. Für die Teilnahme an einem Satelliten ist ein Online-Ticket notwendig. Wenn noch jemand einen Satellit im Rahmen der lernOS Convention anbieten möchte, bitte [mit Simon Kontakt aufnehmen](mailto:simon.dueckert@cogneon.de?subject=loscon%20Satellit).
+
+## Die loscon Satelliten dieses Jahr
+
+![](./img/loscon25-Satelliten-Karte.png)
+
+### München
+Der Satellit München ist bei der Lebensversicherung von 1871, bei der die loscon 2019 stattgefunden hat (Video). Reserviert ist ein schöner Raum im obersten Stock mit wunderbarer Aussicht über München.
+
+- **Wer ist Ansprechpartner:** [Oliver Fischer](https://www.linkedin.com/in/oliver-fischer-63505b48/)
+- **Wo ist der Satellit:** LV1871, Maximiliansplatz 5 in 80333 München ([Karte](https://maps.app.goo.gl/w52mkmZrD8cQhHA88))
+- **Wann kann man da sein:**
+    - 01.07.2025: 12:00 - 18:00
+    - 02.07.2025: 08:30 - 16:00
+- **Wieviele Teilnehmende max.:** 20
+- **Anmeldung:** über [dieses Formular](https://forms.office.com/e/XdFyFCB9gy) (Anmeldeschluss 20.06.)
+- **Besonderheiten:**
+    - Für Verpflegung ist gesorgt. 
+    - Abendveranstaltung ist Abhängig von der TN-Anzahl. 
+    - Nur mit ÖPNV zu erreichen: [https://www.lv1871.de/service/kontakt](https://www.lv1871.de/service/kontakt)
+
+### Hamburg
+
+- **Wer ist Ansprechpartner:** Karl Damke
+- **Wo ist der Satellit:** Volkshochschule Hamburg
+- **Wann kann man da sein:** tbd.
+- **Wieviele Teilnehmende max.:** tbd.
+- **Anmeldung:** [per Email](mailto:kd@vhs-sh.de?subject=loscon25%20Satellit%20Hamburg)
+- **Besonderheiten:**
+
+### Berlin
+
+- **Wer ist Ansprechpartner:** [Brigitte Lüdecke](https://www.linkedin.com/in/brigitteluedecke/)
+- **Wo ist der Satellit:** tbd.
+- **Wann kann man da sein:** tbd.
+- **Wieviele Teilnehmende max.:** 12
+- **Anmeldung:** Bitte zeitnah melden (ggf. vorläufig) [per E-Mail](mailto:mail@brigitte-luedecke.de?subject=loscon25%20Satellit%20Berlin)
+- **Besonderheiten:**
+
 
 ## Wie kann ein loscon Satellit aussehen?
 Ein Satellit kann ganz verschiedene Formen haben, **von ganz klein bis etwas größer**. Einige Beispiele, die eurer Kreativität aber keine Grenzen setzen sollen:
@@ -25,8 +61,6 @@ Die Organisation der Satelliten soll so selbstorganisiert, wie möglich erfolgen
 1. Überlegt euch, ob ihr einen dezentralen Satelliten anbieten möchtet. Wer kann eine Lokation klein/mittel/groß anbieten? Wer kann welche Technik beisteuern? Wer kann weitere Teilnehmer:innen akquirieren?
 1. Tragt euch unten mit einer Kontaktmöglichkeit (z.B: Email) in die Liste ein, damit wir euch in ein kleines Vorbereitungstreffen einladen können.
 1. Im Vorbereitungstreffen (Datum tbd.) besprechen wir die Details und klären offene Fragen.
-
-<iframe name="embed_readwrite" src="https://zumpad.zum.de/p/loscon25dezentrale?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
 
 ## Tipps für die technische Ausstattung von Satelliten
 
