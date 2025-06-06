@@ -10,14 +10,14 @@ Die **lernOS Convention** ist das Top-Event zu **Wissensmanagement** und **Lerne
 
 Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon25/) verfügbar.
 
-<button type="button"><a href="https://cogneon.de/event/lernos-convention-2025/" target="_blank">Landing Page</a></button> <button type="button"><a href="https://pretix.eu/cogneon/loscon25/" target="_blank">Tickets</a></button> <button type="button"><a href="https://cogneon.de/2025/03/02/mind-the-knowledge-gap-das-motto-der-lernos-convention-2025/" target="_blank">Blog zum Leitthema</a></button>
+<button type="button"><a href="https://pretalx.com/loscon25/schedule/" target="_blank">Programm</a></button> <button type="button"><a href="https://cogneon.de/event/lernos-convention-2025/" target="_blank">Landing Page</a></button> <button type="button"><a href="https://pretix.eu/cogneon/loscon25/" target="_blank">Tickets</a></button> <button type="button"><a href="https://cogneon.de/2025/03/02/mind-the-knowledge-gap-das-motto-der-lernos-convention-2025/" target="_blank">Blog zum Leitthema</a></button>
 
 ## Wichtige Termine
 
 - **21.02.:** Start der Orga-Calls des [Orga-Teams](orga-team.md) (jeweils Freitags, 09:00 - 10:00 Uhr)
 - **10.03.:** Golive Landing Page [cogneon.de/loscon25](https://cogneon.de/loscon25) und [Ticketshop](https://pretix.eu/cogneon/loscon25/) und Versand Einladung an loscon-Alumni
 - **24.03.:** Golive [Call for Participation](https://pretalx.com/loscon25/cfp) (CfP, Einreichung von Programmvorschlägen bis 23.05. um 23:59 Uhr)
-- **02.06.:** Programm Version 1.0 ist fertig 🎉
+- **02.06.:** [Programm](https://pretalx.com/loscon25/schedule/) Version 1.0 ist fertig 🎉
 - **23.06.:** Einladung aller Teilnehmer:innen in den Discord-Server der loscon
 - **26.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), im Anschluss ist von 14:00-15:00 Uhr Zeit zum betreuten Testen von Discord
 - **30.06.:** Aufbau in der Burg (voraussichtlich ab Mittag)
