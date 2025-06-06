@@ -8,6 +8,8 @@
 ## Key Visual
 ![](img/loscon25-key-visual.png)
 
+Download: [svg](./img/loscon25-badge.svg)
+
 ## Musik
 London Techno Tube (Mind the Gap Remix9 von Oskar Brennan
 
