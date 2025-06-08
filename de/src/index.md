@@ -12,6 +12,8 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
 
 <button type="button"><a href="https://pretalx.com/loscon25/schedule/" target="_blank">Programm</a></button> <button type="button"><a href="https://cogneon.de/event/lernos-convention-2025/" target="_blank">Landing Page</a></button> <button type="button"><a href="https://pretix.eu/cogneon/loscon25/" target="_blank">Tickets</a></button> <button type="button"><a href="https://cogneon.de/2025/03/02/mind-the-knowledge-gap-das-motto-der-lernos-convention-2025/" target="_blank">Blog zum Leitthema</a></button>
 
+![](./img/Speaker%20Cards/loscon25-speaker-carousel.gif)
+
 ## Wichtige Termine
 
 - **21.02.:** Start der Orga-Calls des [Orga-Teams](orga-team.md) (jeweils Freitags, 09:00 - 10:00 Uhr)
@@ -27,8 +29,6 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2025-07-01 13:00">loscon25 Countdown</a>
-
-![](./img/loscon25-key-visual.png)
 
 ## Eindrücke von früheren lernOS Conventions
 
