@@ -13,6 +13,7 @@ Das Orga-Team hat ab dem 21.02.2025 einen **wöchentlichen Orga-Call** jeweils *
 
 1. [Anke Schiffer-Chollet](https://www.linkedin.com/in/anke-schiffer-chollet/)
 1. [Benedikt Scheerer](https://www.linkedin.com/in/benedikt-scheerer-6020ba18/)
+1. [Brigitte Luedeke](https://www.linkedin.com/in/brigitteluedecke/)
 1. [Christian Kaiser](https://www.linkedin.com/in/christian-kaiser-datev/)
 1. [Doris Schuppe](https://www.linkedin.com/in/doschu/)
 1. [Ellen Braun](https://www.linkedin.com/in/ellen-braun-work-and-feelgood/)
