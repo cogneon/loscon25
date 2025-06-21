@@ -1,6 +1,6 @@
 # Stückliste (BOM)
 
-In der Stückliste (BOM, Bill of Material) sammeln wir alle Dinge, die wir für die Veranstaltung brauchen und die nach dem Abbau auch wieder zurück kommen müssen 😉 Alle Gegenstände, wo nicht andere in Klammern stehen, stammen von Cogneon.
+In der Stückliste (BOM, Bill of Material) sammeln wir alle Dinge, die wir für die Veranstaltung brauchen und die nach dem Abbau auch wieder zurück kommen müssen 😉 Alle Gegenstände, wo nicht andere in Klammern stehen, stammen von Cogneon. Da Material ist in Eurokisten verpackt, die mit der jeweiligen Station beschriftet sind. Bitte beim Abbau darauf achten, dass alle Dinge auf der Packliste wieder in den Kisten sind. Fehlende oder defekte Dinge bitte auf einen Zettel schreiben und in die Kiste legen.
 
 ## Infodesk
 

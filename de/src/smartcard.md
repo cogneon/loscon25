@@ -1,6 +1,6 @@
 # lernOS Smart Card
 
-Als **Namensschild** erhalten alle Teilnehmer:innen die brandneue **lernOS Smart Card**. Das ist eine Karte, die ihr z.B. mit Name und drei Hashtags beschriften und auch immer wieder verwenden könnt. Auf der Karte ist ein NFC-Tag aufgeklebt (und einer eingebaut, s.u.), den wir vorab mit dem Link zum [lernOS Programm](https://pretalx.com/loscon24/schedule/) beschrieben haben. Mit einer NFC-App könnt ihr auf der Karte aber auch andere Daten speichern (z.B. Link zum eigenen Linkedin/Mastodon-Profil, elektronische Visitenkarte).
+Als **Namensschild** erhalten alle Teilnehmer:innen die **lernOS Smart Card**. Das ist eine Karte, die ihr z.B. mit Name und drei Hashtags beschriften und auch immer wieder verwenden könnt. Auf der Karte ist ein NFC-Tag aufgeklebt (und einer eingebaut, s.u.), den wir vorab mit dem Link zum [lernOS Programm](https://pretalx.com/loscon24/schedule/) beschrieben haben. Mit einer NFC-App könnt ihr auf der Karte aber auch andere Daten speichern (z.B. Link zum eigenen Linkedin/Mastodon-Profil, elektronische Visitenkarte).
 
 ![](./img/lernos-smart-card.png)
 

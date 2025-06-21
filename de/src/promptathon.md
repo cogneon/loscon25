@@ -22,4 +22,4 @@ Prozess hinweist (Quelle: Robes, J, Marcel, K.: [Promptathon-Leitfaden der Corpo
 
 ## Der loscon25 Promptathon
 
-Für den loscon25 werden wir Challenges auswählen, die zu euren Themen und Wissenslücken passen. Die Teams werden wir vor Ort auf der Kaiserburg, in den Satelliten und online (MS Teams) bilden. Alle Teilnehmer:innen erhalten Checklisten und Vorlagen für den Promptathon zum Nachmachen in der eigenen Organisation. Details zum Ablauf folgen.
+Für den loscon25 werden wir Challenges auswählen, die zu euren Themen und Wissenslücken passen. Die Teams werden wir vor Ort auf der Kaiserburg, in den Satelliten und online (MS Teams) bilden. Alle Teilnehmer:innen erhalten Checklisten und Vorlagen für den Promptathon zum Nachmachen in der eigenen Organisation.
