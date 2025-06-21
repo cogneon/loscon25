@@ -15,7 +15,9 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
 ![](./img/Speaker%20Cards/loscon25-speaker-carousel.gif)
 
 !!! note "Tipp"
-    Wir haben dir **alle Informationen dieser Infoseiten** auch in einer Markdown-Datei zum Herunterladen zusammengestellt. Die kannst du **in ein KI-Tool deiner Wahl hochladen** (z.B. ChatGPT, Copilot, LeChat, Gemini, lokale KI) und beliebig befragen (**Promptbeispiel:** "Ich hänge dir das Programmheft der Veranstaltung lernOS Convention an. Bereite dich darauf vor, dass wir damit arbeiten.").
+    Wir haben dir **alle Informationen dieser Infoseiten** auch in einer [Markdown-Datei zum Herunterladen](https://github.com/cogneon/loscon25/blob/main/de/loscon25-infopages-full.md) zusammengestellt (Download-Pfeil oben rechts).
+    
+    Die kannst du **in ein KI-Tool deiner Wahl hochladen** (z.B. ChatGPT, Copilot, LeChat, Gemini, lokale KI) und beliebig befragen (**Promptbeispiel:** "Ich hänge dir das Programmheft der Veranstaltung lernOS Convention an. Bereite dich darauf vor, dass wir damit arbeiten.").
 
 ## Wichtige Termine
 
