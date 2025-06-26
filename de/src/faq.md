@@ -20,10 +20,6 @@ Das Ticket wurde dir nach der Bestellung zugesandt. An allen Infomails zur Veran
 
 Na klar, einfach [im Ticketshop](https://pretix.eu/cogneon/loscon25/) auf *Link erneut senden* klicken, Email eingeben und das Ticket wird Dir nochmal zugeschickt.
 
-### Was erhalte ich beim Checking?
-
-Du erhältst ein Lanyard, die lernOS Smart Card als Namensschild, den loscon Pin (den brauchst Du zum Reinkommen) und eine Kartenhülle, falls Du keine mitgebracht hast. Online Teilnehmys haben die Materialien bereits zusammen mit dem gedruckten lernOS KI-Leitfaden in den letzten Tagen per Post nach Hause bekommen.
-
 ### Gibt es eine Garderobe und Möglichkeit zum Abstellen von Koffern?
 
 Ja, direkt im Foyer der Burg. Die Nutzung erfolgt auf eigenes Risiko.

@@ -1,4 +1,4 @@
-# loscon Everywhere
+# loscon Satelliten
 
 **Zusammen ist man weniger allein!** Unter dem Motto **"loscon Everywhere"** wollen wir mit den sog. **loscon Satelliten** dezentrale Veranstaltungsorte für die lernOS Convention fördern (Vorbild: [Congress Everywhere des CCC](https://events.ccc.de/congress/2019/wiki/index.php/Congress_Everywhere)). Bei der loscon24 gab es z.B. eine Teilnahmemöglichkeit in einem Coworking Space in Solothurn in der Schweiz. Für die Teilnahme in einem Satelliten ist wie bei Teilnahme aus dem Home Office ein [Online-Ticket](https://pretix.eu/cogneon/loscon25/) notwendig. Wir fragen mit der Anmeldung zur loscon Satelliten-Angebote und -Nachfragen ab und unterstützen die Selbstorganisation wo möglich.
 

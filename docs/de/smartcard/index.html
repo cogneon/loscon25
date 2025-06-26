@@ -72,8 +72,6 @@
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#erste-schritte">Erste Schritte</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#zusatz-challenge-fur-technik-begeisterte">Zusatz-Challenge für Technik-Begeisterte</a>
-    </li>
     </ul>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../to-bring/">Mitbringen</a>
@@ -166,10 +164,11 @@
             <div class="section" itemprop="articleBody">
               
                 <h1 id="lernos-smart-card">lernOS Smart Card</h1>
-<p>Als <strong>Namensschild</strong> erhalten alle Teilnehmer:innen die brandneue <strong>lernOS Smart Card</strong>. Das ist eine Karte, die ihr z.B. mit Name und drei Hashtags beschriften und auch immer wieder verwenden könnt. Auf der Karte ist ein NFC-Tag aufgeklebt (und einer eingebaut, s.u.), den wir vorab mit dem Link zum <a href="https://pretalx.com/loscon24/schedule/">lernOS Programm</a> beschrieben haben. Mit einer NFC-App könnt ihr auf der Karte aber auch andere Daten speichern (z.B. Link zum eigenen Linkedin/Mastodon-Profil, elektronische Visitenkarte).</p>
+<p>Die Idee mit der <strong>lernOS Smart Card</strong> hat letztes Jahr ja nicht ganz so funktioniert, wie geplant. Die Karten hatten einen Mifare Classic 1K <a href="https://de.wikipedia.org/wiki/Near_Field_Communication">NFC</a>-Chip verbaut, der auf verschiedenen Smartphones nicht schreib- und/oder lesbar war. Wir waren deswegen 2024 schon dazu übergegangen, <strong>NTAG215-Sticker</strong> auf die Karten zu kleben, was problemlos funktioniert.</p>
+<p>Da wir noch einige von den alten Karten haben lochen wir die einfach, um uns die Plastikhülle für die Befestigung an den Lanyards zu sparen und verwenden sie als <strong>Namensschild</strong>. Mit wasserfesten Stiften können Name, Hashtags etc. auf die Karte geschrieben werden. Wer mag, kann sich am Infodesk einen <a href="https://www.nxp.com/products/NTAG213_215_216">NTAG-215</a>-Sticker (<a href="https://amzn.to/4jXSxxh">Amazon-Affiliate-Link</a>) zum Aufkleben holen. Dort könnt ihr euch dann wie unten beschrieben z.B. den Link zu eurem Linkedin-Profil oder zum loscon Programm drauf schreiben.</p>
 <p><img alt="" src="../img/lernos-smart-card.png" /></p>
 <h2 id="erste-schritte">Erste Schritte</h2>
-<p>Zum beschreiben des NFC-Tags (runder weißer Aufkleber auf der Karte) könnt ihr z.B. die App NFC Tools für <a href="https://apps.apple.com/de/app/nfc21-tools/id1496636288">iOS</a> oder <a href="https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&amp;hl=de&amp;pli=1">Android</a> verwenden. Dort wählt ihr "Schreiben" (bzw. bei iPhones „Tag-Typen“, wählt aus was ihr eingeben mögt (URL, Telefonnummer, E-Mail, SMS, FaceTime, Kurzbefehl…) und könnt dann diese verschiedenen Arten von Datensätzen auf den Tag schreiben:</p>
+<p>Zum beschreiben des NFC-Tags könnt ihr z.B. die App NFC Tools für <a href="https://apps.apple.com/de/app/nfc21-tools/id1496636288">iOS</a> oder <a href="https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&amp;hl=de&amp;pli=1">Android</a> verwenden. Dort wählt ihr "Schreiben" (bzw. bei iPhones „Tag-Typen“, wählt aus was ihr eingeben mögt (URL, Telefonnummer, E-Mail, SMS, FaceTime, Kurzbefehl…) und könnt dann diese verschiedenen Arten von Datensätzen auf den Tag schreiben:</p>
 <p><img alt="" src="../img/lernos-tag-app.png" /></p>
 <p>Einige Ideen für die Verwendung (Eurer Fantasie soll aber keine Grenze gesetzt sein):</p>
 <ol>
@@ -179,22 +178,6 @@
 <li><strong>Kontakt:</strong> Elektronische Visitenkarte mit Name, Firma, Adresse, Telefon, E-Mail und Webseite</li>
 <li><strong>uvm.</strong></li>
 </ol>
-<h2 id="zusatz-challenge-fur-technik-begeisterte">Zusatz-Challenge für Technik-Begeisterte</h2>
-<p>Die lernOS Smartcard hat einen Mifare Classic 1k RFID-Chip, weil die als einzig wiederbeschreibbare Karte <a href="https://www.wir-machen-druck.de/bedruckte-rfid-plastikkarten-extrem-guenstig,category,14294.html">bei Wir machen Druck angeboten</a> wurde. Leider stellte sich heraus, dass dieser Chip von iPhone und Android nicht ohne weiteres lesbar und beschreibbar ist 🥲</p>
-<p>Deswegen haben wir auf die Smart Card zusätzlich einen NTAG215 Chip geklebt, den ihr mit den o.g. Apps beschreiben könnt (z.B. mit Link zu eurem Linkedin-Profil). Es gibt aber wohl <a href="https://stackoverflow.com/questions/28575454/format-read-write-ndef-mifare-1k-card-using-libnfc">Möglichkeiten</a>, den Mifare-Chip im kompatiblen Format NDEF zu beschreiben. Wer herausfindet, wie das geht, bekommt von uns ein lernOS Maskottchen Suri.</p>
-<p><strong>Links:</strong></p>
-<ul>
-<li><a href="https://www.nxp.com/docs/en/application-note/AN1305.pdf">AN1305 MIFARE Classic as NFC Type MIFARE Classic Tag</a></li>
-<li><a href="https://github.com/adafruit/Adafruit-PN532/blob/master/examples/mifareclassic_formatndef/mifareclassic_formatndef.ino">Adafruit Library</a></li>
-<li><a href="https://code.google.com/archive/p/micmd/">Mimcd</a></li>
-</ul>
-<p>Wer auf der lernOS Convention ein bisschen basteln will, wir haben einen <a href="https://www.acs.com.hk/en/products/3/acr122u-usb-nfc-reader/">ACR122U USB NFC Reader</a> und PN532-Module dabei. 😉</p>
-<ul>
-<li><a href="https://www.nxp.com/docs/en/application-note/AN1305.pdf">AN1305 MIFARE Classic as NFC Type MIFARE Classic Tag</a></li>
-<li><a href="https://github.com/adafruit/Adafruit-PN532/blob/master/examples/mifareclassic_formatndef/mifareclassic_formatndef.ino">Adafruit Library</a></li>
-<li><a href="https://code.google.com/archive/p/micmd/">Mimcd</a></li>
-</ul>
-<p>Wer auf der lernOS Convention ein bisschen bausteln will, wir haben einen <a href="https://www.acs.com.hk/en/products/3/acr122u-usb-nfc-reader/">ACR122U USB NFC Reader</a> und PN532-Module dabei. 😉</p>
               
             </div>
           </div><footer>
