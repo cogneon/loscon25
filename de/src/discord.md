@@ -1,6 +1,6 @@
 # Discord
 
-Alle Teilnehmer:innen werden auf den loscon24 Discord-Server eingeladen. Dort findet ihr z.B. die Einwahllinks für das Programm, den virtuellen Infodesk, die Chats zu den Breakout-Räumen (2nd-Screen-Ansatz: Chat in Teams ist deaktiviert) und viel Raum für den hybriden Austausch. Ihr könnt Discord im Browser oder als Desktop- bzw. Mobil-App nutzen. Weitere Informationen zu Discord findet ihr im [Discord Hilfecenter](https://support.discord.com/hc/de).
+Alle Teilnehmer:innen werden auf den loscon Discord-Server eingeladen. Dort findet ihr z.B. die Einwahllinks für das Programm, den virtuellen Infodesk, die Chats zu den Breakout-Räumen (2nd-Screen-Ansatz: Chat in Teams ist deaktiviert) und viel Raum für den hybriden Austausch. Ihr könnt Discord im Browser oder als Desktop- bzw. Mobil-App nutzen. Weitere Informationen zu Discord findet ihr im [Discord Hilfecenter](https://support.discord.com/hc/de).
 
 Diese Kategorien (fett) und Kanäle haben wir im Server angelegt:
 
