@@ -19,7 +19,7 @@ Der Satellit München ist bei der Lebensversicherung von 1871, bei der die losco
     - 01.07.2025: 12:00 - 18:00
     - 02.07.2025: 08:30 - 16:00
 - **Wieviele Teilnehmende max.:** 20
-- **Anmeldung:** über [dieses Formular](https://forms.office.com/e/XdFyFCB9gy) (Anmeldeschluss 20.06.)
+- **Anmeldung:** über [dieses Formular](https://forms.office.com/e/XdFyFCB9gy)
 - **Besonderheiten:**
     - Für Verpflegung ist gesorgt. 
     - Abendveranstaltung ist Abhängig von der TN-Anzahl. 
