@@ -19,7 +19,6 @@ In den Breakout-Räumen wir wieder das [Hybrid Meeting Kit](https://wiki.cogneon
 - **TEAMS:** Stelle sicher, dass die Darstellung von Teams korrekt konfiguriert ist:
     - Vollbild: ```Ansicht -> Weitere Optionen -> Vollbild``` (damit der Inhalt so groß wie möglich dargestellt wird)
     - Speaker-Ansicht: ```Ansicht -> Sprecher*in``` (damit redende Personen automatisch groß und in besserer Qualität dargestellt werden)
-    - Chat: ```Chat -> Ein```
     - Kamera: ```Poly Studio P15``` (Totale Kamera für den Raum)
     - Lautsprecher: ```Poly Studio P15``` (Lautsprecher für den Raum)
     - Mikrofon: ```Rode Wireless Go II``` (die beiden Funkmikrofone, eines zum Anstecken, eines im Würfel)
